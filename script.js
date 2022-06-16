@@ -7,7 +7,7 @@ var n = document.querySelector('#paiNo');
 function yes(){
     pai.removeChild(sim);
     pai.removeChild(n);
-    texto.innerHTML = 'Eu sabia!';
+    texto.innerHTML = 'I figured it out!'&#128540&#128540;
 }
 function no(){
     a =a+1
